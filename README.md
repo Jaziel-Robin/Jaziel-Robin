@@ -1,20 +1,15 @@
-# Welcome to my profile 👋
-💪 My name is Robin and I am energetic self taught web/full-stack developer
-
-<strong>🎓 Skills, Front-End 💻:</strong>
-
-HTML5 🌍,
-CSS3 🍰 & CSS Frameworks, Libraries,
-JavaScript ES5+,
-jQuery,
-React & State Management ⚛
-
-<strong>🎓 Skills, Back-End 📁:</strong>
-
-Node JS 🌳,
-Express JS,
-MySQL 💽,
-PostqreSQL 💽,
-MongoDB 💽
-
-🔥 I am getting more experience everyday
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Jaziel Robin<br/>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio&nbsp;Code-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Code-C&ndash;Sharp-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Tools-MySQL&nbsp;Workbench-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Tools-pgAdmin-informational?style=flat&color=white)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&color=white)
+</br></br>
+## 📈 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Jaziel-Robin&theme=dark&show_icons=true" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaziel-Robin&theme=dark" />
