@@ -10,6 +10,6 @@ My name is Jaziel Robin<br/>
 ![](https://img.shields.io/badge/Tools-pgAdmin-informational?style=flat&color=822828)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&color=822828)&nbsp;&nbsp;
 </br></br>
-<!-- ## 📈 GitHub Stats - Why so low? :(
+## 📈 GitHub Stats - Why so low? :(
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaziel-Robin&theme=dark" height='200px'/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Jaziel-Robin&theme=dark&show_icons=true" height='200px' />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaziel-Robin&repo=Project-Manager&theme=dark" width='376.29px' />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaziel-Robin&repo=SP-IT-Backend&theme=dark" width='376.29px' /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaziel-Robin&repo=Project-Manager&theme=dark" width='376.29px' />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jaziel-Robin&repo=SP-IT-Backend&theme=dark" width='376.29px' />
