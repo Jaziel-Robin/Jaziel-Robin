@@ -1,6 +1,6 @@
 # Hello <img src="https://github.com/Jaziel-Robin/Jaziel-Robin/blob/main/wave.gif" width="30px">
-<!--My name is Jaziel Robin-->
-<br/>
+<!-- My name is Jaziel Robin
+<br/> -->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&color=284682)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio&nbsp;Code-informational?style=flat&color=284682)&nbsp;&nbsp;
